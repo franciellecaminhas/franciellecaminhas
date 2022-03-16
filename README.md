@@ -20,7 +20,7 @@
 
 ## Languages:
 * Portuguese (native)
-* :us: (advanced)
+* :us: ( basic to intermediate)
 * :fr: (intermediary)
 
  ##
