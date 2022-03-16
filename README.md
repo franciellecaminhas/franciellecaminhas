@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Francielle Caminhas 👋
 
 <h1 align="center">Hi 👋, I'm Francielle Caminhas</h1>
-<h3 align="center">Researcher, maps, code, and date. Life with arts and music, dreams and a pinch   of pepper. GIS | DBA | GEO.</h3>
 
 - 🌎 Geosciences 
 - 🔭 Researcher
