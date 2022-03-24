@@ -27,7 +27,7 @@
  
 <div align="right">
   
- ## De simples fenêtres, je vois des paysages exquis, je suis une personne qui cherche. En chemin, je me retrouve toujours ! :earth_americas: 
+ ## De simples janelas vejo paisagens requintadas, sou uma pessoa que pesquisa. No caminho, eu me reencontro diversas vezes! :earth_americas: 
  ![Fran](https://user-images.githubusercontent.com/101716092/159188198-23a767b9-2a64-40a2-809a-d929f99ecb6a.gif)
 
 ##
